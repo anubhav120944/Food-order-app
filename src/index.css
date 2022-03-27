@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Balthazar&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Balthazar', serif;
+  font-size: 20px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: wheat;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-app-region: none;
+}
+
+code {
+  font-family: 'Balthazar', serif;
+  font-size: 20px;
+}
